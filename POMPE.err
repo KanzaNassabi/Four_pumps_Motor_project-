@@ -1,0 +1,22 @@
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 2 : Found directive in column 1. (list)
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 4 : Found directive in column 1. (__CONFIG)
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 5 : Found directive in column 1. (__CONFIG)
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 11 : Found directive in column 1. (ORG)
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 12 : Found directive in column 1. (BANKSEL)
+Warning[203] D:\PROJET INFO INDU\POMPE.ASM 13 : Found opcode in column 1. (BCF)
+Message[302] D:\PROJET INFO INDU\POMPE.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 14 : Found directive in column 1. (BANKSEL)
+Warning[203] D:\PROJET INFO INDU\POMPE.ASM 15 : Found opcode in column 1. (CLRF)
+Message[302] D:\PROJET INFO INDU\POMPE.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] D:\PROJET INFO INDU\POMPE.ASM 16 : Found opcode in column 1. (CLRF)
+Message[302] D:\PROJET INFO INDU\POMPE.ASM 16 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 17 : Found directive in column 1. (BANKSEL)
+Warning[203] D:\PROJET INFO INDU\POMPE.ASM 18 : Found opcode in column 1. (CLRF)
+Message[302] D:\PROJET INFO INDU\POMPE.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 19 : Found directive in column 1. (BANKSEL)
+Warning[203] D:\PROJET INFO INDU\POMPE.ASM 20 : Found opcode in column 1. (MOVLW)
+Warning[203] D:\PROJET INFO INDU\POMPE.ASM 21 : Found opcode in column 1. (MOVWF)
+Message[302] D:\PROJET INFO INDU\POMPE.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 22 : Found directive in column 1. (BANKSEL)
+Warning[203] D:\PROJET INFO INDU\POMPE.ASM 23 : Found opcode in column 1. (CLRF)
+Warning[205] D:\PROJET INFO INDU\POMPE.ASM 98 : Found directive in column 1. (END)

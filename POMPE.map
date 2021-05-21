@@ -1,0 +1,60 @@
+MPLINK 4.33, Linker
+Linker Map File - Created Sun Jan 10 03:46:07 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00007c
+                   .cinit    romdata   0x001800    program   0x000004
+     .config_2007_POMPE.O       code   0x002007    program   0x000002
+     .config_2008_POMPE.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00003d      
+                            0x001800    0x001801      
+                            0x002007    0x002008      
+            66 out of 8454 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                       NB   0x000029    program     static D:\PROJET INFO INDU\POMPE.asm
+                       NH   0x00002c    program     static D:\PROJET INFO INDU\POMPE.asm
+                      NTB   0x000026    program     static D:\PROJET INFO INDU\POMPE.asm
+                      NTH   0x00002f    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P1OFF   0x000032    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P1ON   0x00001a    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P2OFF   0x000035    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P2ON   0x00001d    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P3OFF   0x000038    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P3ON   0x000020    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P4OFF   0x00003b    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P4ON   0x000023    program     static D:\PROJET INFO INDU\POMPE.asm
+                    START   0x000011    program     static D:\PROJET INFO INDU\POMPE.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000011    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P1ON   0x00001a    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P2ON   0x00001d    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P3ON   0x000020    program     static D:\PROJET INFO INDU\POMPE.asm
+                     P4ON   0x000023    program     static D:\PROJET INFO INDU\POMPE.asm
+                      NTB   0x000026    program     static D:\PROJET INFO INDU\POMPE.asm
+                       NB   0x000029    program     static D:\PROJET INFO INDU\POMPE.asm
+                       NH   0x00002c    program     static D:\PROJET INFO INDU\POMPE.asm
+                      NTH   0x00002f    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P1OFF   0x000032    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P2OFF   0x000035    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P3OFF   0x000038    program     static D:\PROJET INFO INDU\POMPE.asm
+                    P4OFF   0x00003b    program     static D:\PROJET INFO INDU\POMPE.asm
+
+
